@@ -1,0 +1,15 @@
+.git
+.gradle
+.idea
+*.iml
+*.ipr
+*.iws
+build/
+local.properties
+.DS_Store
+.cache
+
+# Sublime
+.tags
+*.sublime-project
+*.sublime-workspace

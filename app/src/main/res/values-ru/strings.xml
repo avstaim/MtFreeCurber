@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Демократизатор MT_FREE</string>
+    <string name="start_curb">Обуздать MT_FREE</string>
+    <string name="stop_curb">Освободить MT_FREE</string>
+    <string name="service_not_started">Сервис не запущен</string>
+    <string name="service_is_starting">Сервис запускается</string>
+    <string name="not_curbed">Не обнаружено хорошего мобильного интернета: автоподключение MT_FREE разрешено</string>
+    <string name="curbed">У нас есть хороший мобильный интернет: автоподключение MT_FREE запрещено</string>
+    <string name="internal_error">Внутренняя ошибка</string>
+    <string name="wifi_error">Ошибка: выключен WiFi или точка MT_FREE не добавлена в известные сети</string>
+    <string name="permissions_required">Эта программа управляет соединениями WiFi. Ей также необходимо знать о статусе мобильного соединения. Для корректой работы нужны следующие разрешения: READ_PHONE_STATE, ACCESS_WIFI_STATE, CHANGE_WIFI_STATE, ACCESS_NETWORK_STATE</string>
+    <string name="permission_denied">Вы не выдали одно или несколько необходимых разрешений, работа программы невозможна</string>
+    <string name="error">Ошибка</string>
+    <string name="wifi_error_desc">выключен WiFi или точка MT_FREE не добавлена в известные сети</string>
+    <string name="not_curbed_short">MT_FREE разрешен</string>
+    <string name="curbed_short">MT_FREE запрещен</string>
+    <string name="not_curbed_desc">Нет мобильного интернета</string>
+    <string name="curbed_desc">Есть мобильный интернет</string>
+</resources>
